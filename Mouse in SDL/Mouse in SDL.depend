@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1490344001 source:d:\int 2202\mouse in sdl\mouse.cpp
+	<iostream>
+	<SDL.h>
+	"SDL_utils.h"
+
+1490343497 d:\int 2202\mouse in sdl\sdl_utils.h
+	<iostream>
+	<SDL.h>
+
+1490343587 source:d:\int 2202\mouse in sdl\sdl_utils.cpp
+	<iostream>
+	<SDL.h>
+

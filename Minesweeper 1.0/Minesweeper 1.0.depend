@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1556854875 source:d:\int 2202\minesweeper 1.0\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	<algorithm>
+	<math.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
